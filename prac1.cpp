@@ -1,4 +1,4 @@
-# include<iostream>
+# include<iostream>;
 using namespace std;
 
   int main() {
@@ -7,5 +7,6 @@ using namespace std;
     cout <<"practice session . the value of a is. " <<a<< ". \nthe value of b is . " <<b<< "\ntthe value of c is. "<<c;
 
     return 0;}
+
 
   
